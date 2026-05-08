@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+raw/
+output.md
+
+# Large files (optional, if you use LFS or don't want to push GBs of photos)
+# assets/photos/
